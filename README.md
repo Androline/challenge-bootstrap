@@ -2,5 +2,5 @@
 https://androline.github.io/challenge-bootstrap/
 
 
-grid away exercise
+"grid away" exercise
 without bootstrap cards
